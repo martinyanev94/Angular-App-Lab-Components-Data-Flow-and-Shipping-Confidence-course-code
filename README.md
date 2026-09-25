@@ -1,0 +1,2 @@
+# Angular-App-Lab-Components-Data-Flow-and-Shipping-Confidence-course-code
+Learn to build a maintainable TypeScript Angular SPA from CLI scaffolding through components, routing, async services, and reactive forms. This hands-on CatalogBench lab walks you from architecture to shipping confidence—including UI polish, tests, and a hybrid upgrade path for legacy AngularJS codebases. You will practice real Angular patterns: co
