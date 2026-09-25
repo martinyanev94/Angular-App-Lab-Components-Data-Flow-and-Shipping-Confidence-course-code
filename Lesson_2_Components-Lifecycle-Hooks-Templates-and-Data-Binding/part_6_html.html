@@ -1,0 +1,9 @@
+<button (click)="updateSelection()">Highlight next title</button>
+
+<cb-item-card
+
+  [title]="selectedTitle"
+
+  (titleSelected)="onTitleSelected($event)">
+
+</cb-item-card>
